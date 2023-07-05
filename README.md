@@ -28,3 +28,7 @@
 ### Follow me
 [![YouTube](https://img.shields.io/badge/-YouTube-black?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UC9_jnRiMCgx5s733lhqYGWg)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/yourchupuzrik/)
+
+![yourChupuzrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourChupuzrik&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourChupuzrik&progress=true&layout=compact&theme=tokyonight)
